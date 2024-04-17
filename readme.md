@@ -9,8 +9,8 @@
     - [x] Simplex method
     - [x] Big-M method and Two-phase method
     - [x] Dual simplex method
-- [ ] Vogel's approximation method (with MODI optimization)
-- [ ] Hungarian assignment problem
+- [x] Vogel's approximation method (with MODI optimization)
+- [x] Hungarian assignment problem
 - [ ] Program evaluation review technique
 - [ ] Regression:
     - [ ] Linear regression
