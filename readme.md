@@ -11,8 +11,7 @@
     - [x] Dual simplex method
 - [x] Vogel's approximation method (with MODI optimization)
 - [x] Hungarian assignment problem
-- [ ] Program evaluation review technique
-- [ ] Regression:
-    - [ ] Linear regression
-    - [ ] Non-linear regression
-    - [ ] Polynomial regression
+- [x] Program evaluation review technique
+- [x] Regression:
+    - [x] Linear regression
+    - [x] Polynomial regression
