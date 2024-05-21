@@ -12,6 +12,7 @@
 - [x] Vogel's approximation method (with MODI optimization)
 - [x] Hungarian assignment problem
 - [x] Program evaluation review technique
+- [x] Critical Path Method
 - [x] Regression:
     - [x] Linear regression
     - [x] Polynomial regression
